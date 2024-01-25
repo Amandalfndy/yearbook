@@ -30,10 +30,10 @@
                 <div class="card" style="width: 35vh; border-color: black; height: max-content; position: relative">
                     <img src="/Rectangle 38.png" class="card-img-top" alt="...">
                 </div>
-                <h1 style="font-family: monospace; margin-left: 8vh; margin-top: 1vh; font-size: 9vh"><b>Sambutan <br> Kepala <br> Sekolah</b></h1>
+                <h1 style="font-family: monospace; margin-left: 8vh; margin-top: 1vh; font-size: 9vh"><b>Sambutan <br> Ketua Osis </b></h1>
             </div>
             <div class="card" style="width: 32vh; border-color: black; height: max-content; margin-left: 10vh; position: relative; margin-top: -25px">
-                <p class="text-center" style="margin: 5px "><b>Drs.Boan M.pd</b></p>
+                <p class="text-center" style="margin: 5px "><b>Nifa Alfindy</b></p>
             </div>
             <div>
                 <p>Assalamu'alaikum Wr.Wb

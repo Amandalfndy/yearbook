@@ -2,10 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Sambutan;
 use Illuminate\Http\Request;
 
-class SambutanController extends Controller
+class SambutanKetuaBtsController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,8 +12,7 @@ class SambutanController extends Controller
     public function index()
     {
         //
-        return view('sambutan_kepsek.index');
-
+        return view('sambutan_ketua_bts.index');
     }
 
     /**
@@ -23,7 +21,6 @@ class SambutanController extends Controller
     public function create()
     {
         //
-        return view('sambutan_kepsek.tambah');
     }
 
     /**
@@ -37,7 +34,7 @@ class SambutanController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Sambutan $sambutan)
+    public function show(string $id)
     {
         //
     }
@@ -45,7 +42,7 @@ class SambutanController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Sambutan $sambutan)
+    public function edit(string $id)
     {
         //
     }
@@ -53,7 +50,7 @@ class SambutanController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Sambutan $sambutan)
+    public function update(Request $request, string $id)
     {
         //
     }
@@ -61,7 +58,7 @@ class SambutanController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Sambutan $sambutan)
+    public function destroy(string $id)
     {
         //
     }

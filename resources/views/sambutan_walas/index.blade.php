@@ -28,12 +28,12 @@
         <div class="card-body">
             <div class="d-flex">
                 <div class="card" style="width: 35vh; border-color: black; height: max-content; position: relative">
-                    <img src="/Rectangle 38.png" class="card-img-top" alt="...">
+                    <img src="/bg_walas.png" class="card-img-top" alt="...">
                 </div>
-                <h1 style="font-family: monospace; margin-left: 8vh; margin-top: 1vh; font-size: 9vh"><b>Sambutan <br> Kepala <br> Sekolah</b></h1>
+                <h1 style="font-family: monospace; margin-left: 8vh; margin-top: 1vh; font-size: 9vh"><b>Sambutan <br> Wali Kelas <br> XII RPL B</b></h1>
             </div>
             <div class="card" style="width: 32vh; border-color: black; height: max-content; margin-left: 10vh; position: relative; margin-top: -25px">
-                <p class="text-center" style="margin: 5px "><b>Drs.Boan M.pd</b></p>
+                <p class="text-center" style="margin: 5px "><b>Nunung Ahdiati Nur S,Pd</b></p>
             </div>
             <div>
                 <p>Assalamu'alaikum Wr.Wb

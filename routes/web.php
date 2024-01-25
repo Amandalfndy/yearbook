@@ -2,9 +2,11 @@
 
 use App\Http\Controllers\CoverController;
 use App\Http\Controllers\SambutanController;
+use App\Http\Controllers\SambutanKetosController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TakunController;
-
+use App\Models\Sambutan;
+use App\Http\Controllers\SambutanWalasController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -22,4 +24,7 @@ Route::get('/', function () {
 
 Route::get('cover', [CoverController::class,'index']);
 Route::get('sambutan_kepsek', [SambutanController::class, 'index']);
+Route::get('sambutan_walas', [SambutanWalasController::class,'index']);
+Route::get('sambutan_ketos', [SambutanKetosController::class,'index']);
+Route::get('sambutan_ketua_bts', [SambutanKetosControllerController::class,'index']);
 
