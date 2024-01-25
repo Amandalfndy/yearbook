@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\CoverController;
+use App\Http\Controllers\GuruController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TakunController;
 
@@ -19,4 +20,6 @@ Route::get('/', function () {
     return view('login.index');
 });
 
+
 Route::get('cover', [CoverController::class,'index']);
+Route::get('guru', [GuruController::class,'index']);
