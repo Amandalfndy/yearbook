@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\CoverController;
+use App\Http\Controllers\SambutanController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TakunController;
 
@@ -20,3 +21,5 @@ Route::get('/', function () {
 });
 
 Route::get('cover', [CoverController::class,'index']);
+Route::get('sambutan_kepsek', [SambutanController::class, 'index']);
+
