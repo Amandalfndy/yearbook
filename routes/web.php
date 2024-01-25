@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\CoverController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\TakunController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,5 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('login.index');
 });
+
+Route::get('cover', [CoverController::class,'index']);

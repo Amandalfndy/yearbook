@@ -2,18 +2,17 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Takun;
 use Illuminate\Http\Request;
 
-class TakunController extends Controller
+class CoverController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        //
-        return view('login.index');
+        //        
+        return view('cover.index');
 
     }
 
@@ -36,7 +35,7 @@ class TakunController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Takun $takun)
+    public function show(string $id)
     {
         //
     }
@@ -44,7 +43,7 @@ class TakunController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Takun $takun)
+    public function edit(string $id)
     {
         //
     }
@@ -52,7 +51,7 @@ class TakunController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Takun $takun)
+    public function update(Request $request, string $id)
     {
         //
     }
@@ -60,7 +59,7 @@ class TakunController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Takun $takun)
+    public function destroy(string $id)
     {
         //
     }
