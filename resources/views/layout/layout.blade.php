@@ -147,7 +147,7 @@
 
             <ul class="nav-list">
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="sambutan_kepsek">
                         <span class="nav-item__icon">
                             <i class="fa-solid fa-school"></i>
                         </span>
@@ -209,7 +209,7 @@
             </ul>
             <ul class="nav-list">
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="/login">
                         <span class="nav-item__icon logout">
                            <i class="fa-solid fa-right-from-bracket"></i>
                         </span>
