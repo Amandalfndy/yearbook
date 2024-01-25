@@ -157,7 +157,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="sambutan_ketos">
                         <span class="nav-item__icon">
                             <i class="fa-solid fa-sitemap"></i>
                         </span>
@@ -167,7 +167,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#">
+                    <a href="sambutan_ketua_bts">
                         <span class="nav-item__icon">
                            <i class="fa-solid fa-group-arrows-rotate"></i>
                         </span>
@@ -197,7 +197,7 @@
                     </a>
                 </li>
                   <li class="nav-item">
-                    <a href="#">
+                    <a href="sambutan_walas">
                         <span class="nav-item__icon">
                            <i class="fa-solid fa-user-graduate"></i>
                         </span>
@@ -209,7 +209,7 @@
             </ul>
             <ul class="nav-list">
                 <li class="nav-item">
-                    <a href="/login">
+                    <a href="/">
                         <span class="nav-item__icon logout">
                            <i class="fa-solid fa-right-from-bracket"></i>
                         </span>
