@@ -24,24 +24,9 @@
 
 <body>
     <div class="card outer-card mx-auto" style="width: 50%; border-color: black; border: solid black;">
-        {{-- <div class="card-body">
-            <div class="d-flex">
-                <div class="card" style="width: 35vh; border-color: black; height: max-content; position: relative">
-                    <img src="/Rectangle 38.png" class="card-img-top" alt="...">
-                </div>
-                <h1 style="font-family: monospace; margin-left: 8vh; margin-top: 1vh; font-size: 9vh"><b>Sambutan <br> Kepala <br> Sekolah</b></h1>
-            </div>
-            <div class="card" style="width: 32vh; border-color: black; height: max-content; margin-left: 10vh; position: relative; margin-top: -25px">
-                <p class="text-center" style="margin: 5px "><b>Drs.Boan M.pd</b></p>
-            </div>
-            <div>
-                <p>Assalamu'alaikum Wr.Wb
-                    Kita panjatkan puji syukur ke hadirat Allah SWT beserta Nabi Muhammad SAW beserta sahabat-sahabatnya yang telah memberikan karunia dan kenikmatan yang tak terhitung banyaknya.
-                    Bersamaan dengan datangnya tahun ajaran 2022/2023, Website SMK Negeri 1 Kota Bekasi hadir dengan wajah yang baru. Pergantian web ini dirasa sangat penting artinya bagi SMK Negeri 1 Kota Bekasi, karena website adalah halaman muka dan sumber informasi dari sebuah institusi. Seiring perkembangan jaman dan kemajuan teknologi IT yang berkembang dengan cepat maka SMK Negeri 1 Kota Bekasi harus selalu mampu mengikutinya.
-                    Wassalamu'alaikum wr.wb.</p>
-        
-            </div>
-        </div> --}}
+        <div class="card-body">
+           
+        </div>
     </div>
 </body>
 

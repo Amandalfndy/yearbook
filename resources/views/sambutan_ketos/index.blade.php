@@ -28,7 +28,7 @@
         <div class="card-body">
             <div class="d-flex">
                 <div class="card" style="width: 35vh; border-color: black; height: max-content; position: relative">
-                    <img src="/Rectangle 38.png" class="card-img-top" alt="...">
+                    <img src="/ketos.jpg" class="card-img-top" alt="...">
                 </div>
                 <h1 style="font-family: monospace; margin-left: 8vh; margin-top: 1vh; font-size: 9vh"><b>Sambutan <br> Ketua Osis </b></h1>
             </div>
